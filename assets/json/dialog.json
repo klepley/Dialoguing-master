@@ -6,12 +6,24 @@
 			"newSpeaker" : "true"
 		},
 		{
+			"speaker" : "minerva",
+			"dialog" : "die die die die",
+			"newSpeaker":  "true"
+		},
+		{
 			"speaker" : "homer",
-			"dialog" : "Many cities did he visit, and many were the nations with whose manners and customs he was acquainted."
+			"dialog" : "Many cities did he visit, and many were the nations with whose manners and customs he was acquainted.",
+			"newSpeaker" : "true"
+		},
+		{
+			"speaker" : "gojo",
+			"dialog" : "Yo Wai Mo",
+			"newSpeaker" : "true"
 		},
 		{	
 			"speaker" : "homer",
-			"dialog" : "Moreover he suffered much by sea while trying to save his own life and bring his men safely home."
+			"dialog" : "Moreover he suffered much by sea while trying to save his own life and bring his men safely home.",
+			"newSpeaker" : "true"
 		},
 		{	
 			"speaker" : "homer",
@@ -33,8 +45,14 @@
 			"newSpeaker" : "true"
 		},
 		{
+			"speaker" : "gojo",
+			"dialog" : "Womp womp.",
+			"newSpeaker" : "true"
+		},
+		{
 			"speaker" : "neptune",
-			"dialog" : "Look at Aegisthus; he must needs make love to Agamemnon's wife unrighteously and then kill Agamemnon, though he knew it would be the death of him."
+			"dialog" : "Look at Aegisthus; he must needs make love to Agamemnon's wife unrighteously and then kill Agamemnon, though he knew it would be the death of him.",
+			"newSpeaker" : "true"
 		},
 		{	
 			"speaker" : "minerva",
